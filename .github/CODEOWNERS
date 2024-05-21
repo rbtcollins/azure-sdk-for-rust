@@ -28,6 +28,10 @@
 # PRLabel: %Storage
 /sdk/storage/           @heaths @RickWinter @JeffreyRichter
 
+# ServiceLabel: %Cosmos
+# PRLabel: %Cosmos
+/sdk/data_cosmos/        @Pilchie
+
 ###########
 # Eng Sys
 ###########
